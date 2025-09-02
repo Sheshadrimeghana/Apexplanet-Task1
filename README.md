@@ -12,3 +12,7 @@
 ## Deliverables
 - Working PHP local server.
 - A Git repository with the initial commit.          
+ OUTPUT
+
+
+![WhatsApp Image 2025-09-02 at 20 54 10_5e06a622](https://github.com/user-attachments/assets/2398c256-e01a-494e-910d-b52f0974dd77)
